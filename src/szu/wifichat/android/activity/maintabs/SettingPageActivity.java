@@ -117,7 +117,7 @@ public class SettingPageActivity extends TabItemActivity implements
             break;
 
         case R.id.btn_about_us:
-            startActivity(AboutActivity.class);
+//            startActivity(AboutActivity.class);
             break;
 
         case R.id.btn_exit_application:
